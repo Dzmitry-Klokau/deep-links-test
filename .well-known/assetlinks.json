@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.elcinc.clinique.academy.dev",
+      "sha256_cert_fingerprints": [
+        "B3:45:32:16:9A:0F:BD:6B:55:A2:79:04:90:77:18:5B:A1:A5:6B:95:E6:71:6A:4F:09:5B:77:71:53:E8:09:4E"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.elcinc.clinique.academy.qa",
+      "sha256_cert_fingerprints": [
+        "B3:45:32:16:9A:0F:BD:6B:55:A2:79:04:90:77:18:5B:A1:A5:6B:95:E6:71:6A:4F:09:5B:77:71:53:E8:09:4E"
+      ]
+    }
+  }
+]
